@@ -1,5 +1,9 @@
 # HPA-Theta-hybrid-optimised-pathfinding-system-in-Unity-DOTS-stack.
 
+UNITY 2019.3.2f1
+
+Requires: Burst, Jobs, Entities, Mathematics, HybridRenderer.
+
 This is a simple Unity Scene where you can easily make a grid with obstacles and test out pathfidning. It is multi-threaded and BURSTCOMPILED so it is very fast.
 
 INSTRUCTIONS: 
