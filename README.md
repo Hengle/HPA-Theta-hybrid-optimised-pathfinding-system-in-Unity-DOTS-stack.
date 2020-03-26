@@ -18,3 +18,8 @@ Select a single unit by clicking on one, or select multiple by dragging over a b
 DEBUGGING:
 
 To enable/disable visual path markers and pathfinding time check the booleans in the OnUpdate in PathfindingSystem.
+
+USEFUL LINKS:
+
+https://harablog.files.wordpress.com/2009/06/beyondastar.pdf
+https://www.gamasutra.com/view/feature/131505/toward_more_realistic_pathfinding.php?print=1
