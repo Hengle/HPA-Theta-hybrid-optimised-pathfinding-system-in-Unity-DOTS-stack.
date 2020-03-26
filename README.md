@@ -10,3 +10,7 @@ Simple ctrl-s (save) and run the game. Move your camera around with WSAD, use QE
 Holde scroll wheel button and move mouse to rotate camera in any direction. Double click the ground to zoom to a location. Hold L-Shift while moving to speed up.
 
 Select a single unit by clicking on one, or select multiple by dragging over a bunch. Right click somewhere while units are selected to give them the order to move.
+
+DEBUGGING:
+
+To enable/disable visual path markers and pathfinding time check the booleans in the OnUpdate in PathfindingSystem.
